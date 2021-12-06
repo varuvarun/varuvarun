@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @varuvarun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m VARUN D S
+- 👀 I’m interested in DATA SCIENCE
+- 🌱 I’m currently learning DATA SCIENCE AND ROBOTICS
+- 💞️ I’m looking to collaborate on DATA SCIENCE ENTHUSIAST
+- 📫 How to reach me https://www.linkedin.com/in/varun-d-s-961692217/
 
 <!---
 varuvarun/varuvarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
